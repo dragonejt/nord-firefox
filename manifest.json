@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "2.11",
+  "name": "Nord Theme",
+  "theme": {
+    "colors": {
+      "toolbar": "#3b4252",
+      "toolbar_text": "#eceff4",
+      "bookmark_text": "#88c0d0",
+      "icons_attention": "#88c0d0",
+      "frame": "rgb(46, 52, 64)",
+      "tab_background_text": "#d8dee9",
+      "toolbar_field": "rgba(67, 76, 94, 0.95)",
+      "toolbar_field_text": "#eceff4",
+      "toolbar_field_border_focus": "#8fbcbb",
+      "tab_line": "rgb(136, 192, 208)",
+      "popup": "#434c5e",
+      "popup_text": "#eceff4",
+      "popup_highlight": "#88c0d0",
+      "popup_highlight_text": "#2e3440",
+      "tab_loading": "#8fbcbb",
+      "ntp_background": "#d8dee9",
+      "ntp_text": "#2e3440",
+      "sidebar": "#434c5e",
+      "sidebar_text": "#eceff4",
+      "sidebar_highlight": "#88c0d0",
+      "sidebar_highlight_text": "#2e3440",
+      "toolbar_field_highlight": "#5e81ac",
+      "toolbar_field_highlight_text": "#eceff4"
+
+    }
+  }
+}
