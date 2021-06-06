@@ -9,25 +9,29 @@
       "tab_text": "#eceff4",
       "tab_loading": "#8fbcbb",
       "tab_line": "#3b4252",
+      "tab_selected": "#5e81ac",
       "bookmark_text": "#d8dee9",
       "icons": "#d8dee9",
       "icons_attention": "#88c0d0",
       "tab_background_text": "#d8dee9",
-      "toolbar_field": "#4c566a",
+      "toolbar_field": "#2e3440",
       "toolbar_field_text": "#eceff4",
+      "toolbar_field_focus": "#434c5e",
       "toolbar_field_border_focus": "#88c0d0",
       "toolbar_field_highlight": "#88c0d0",
       "toolbar_field_highlight_text": "#eceff4",
-      "popup": "#4c566a",
+      "popup": "#434c5e",
       "popup_text": "#eceff4",
       "popup_highlight": "#88c0d0",
       "popup_highlight_text": "#2e3440",
+      "popup_border": "#434c5e",
       "ntp_background": "#d8dee9",
       "ntp_text": "#2e3440",
       "sidebar": "#4c566a",
       "sidebar_text": "#eceff4",
       "sidebar_highlight": "#88c0d0",
-      "sidebar_highlight_text": "#2e3440"
+      "sidebar_highlight_text": "#2e3440",
+      "sidebar_border": "#434c5e"
     }
   }
 }
