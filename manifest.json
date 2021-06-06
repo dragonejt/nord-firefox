@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2.35",
+  "version": "2.36",
   "name": "Nord Theme",
   "theme": {
     "colors": {
@@ -23,7 +23,7 @@
       "toolbar_top_separator": "#2e3440",
       "popup": "#434c5e",
       "popup_text": "#eceff4",
-      "popup_highlight": "#5e81ac",
+      "popup_highlight": "#88c0d0",
       "popup_highlight_text": "#2e3440",
       "popup_border": "#434c5e",
       "ntp_background": "#d8dee9",
