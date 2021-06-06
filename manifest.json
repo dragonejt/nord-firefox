@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2.33",
+  "version": "2.34",
   "name": "Nord Theme",
   "theme": {
     "colors": {
@@ -9,7 +9,7 @@
       "tab_text": "#eceff4",
       "tab_loading": "#8fbcbb",
       "tab_line": "#3b4252",
-      "tab_selected": "#5e81ac",
+      "tab_selected": "#434c5e",
       "bookmark_text": "#d8dee9",
       "icons": "#d8dee9",
       "icons_attention": "#88c0d0",
